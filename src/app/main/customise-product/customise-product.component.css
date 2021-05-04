@@ -1,0 +1,23 @@
+.l-side-item , .r-side-item{
+    box-shadow: inset 1px 1px 4px 1px rgba(0, 0, 0, 0.452);
+    padding: 1rem;
+}
+
+.palete-choice{
+    height: 5rem;
+    border: 2px solid white;
+}
+
+.l-side , .r-side{
+    height: 600px;
+    overflow: scroll;
+}
+
+.sticker-choice{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 10rem;
+    width: 10rem;
+    /* box-shadow: 1px 2px 2px 1px black; */
+    padding: 0.3rem;
+}
